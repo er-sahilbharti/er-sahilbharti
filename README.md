@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, PostgreSQl, RESTful APIs**
 
-- 📫 How to reach me **sahil.884062@gmail.com**
+- 📫 How to reach me **sahilbharti.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
