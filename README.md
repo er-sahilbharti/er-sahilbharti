@@ -1,4 +1,4 @@
-![logo](https://github.com/er-sahilbharti/er-sahilbharti/blob/main/gitHub_banner.png)
+![logo](https://github.com/er-sahilbharti/er-sahilbharti/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sahil Bharti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
