@@ -1,4 +1,4 @@
-!-- HEADER SECTION -->
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=SAHIL%20BHARTI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
